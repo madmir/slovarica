@@ -1,41 +1,81 @@
-Car – auto - سيارة
-Ship – brod
-Carpet – cilim
-Boot – cizma
-Flower – cvijet
-Student (primary) – djak
-Tree – drvo
-Mosque – dzamija
-Nail – esker
-Bottle – flasa
-Pidgeon – golub
-Helicopter – helikopter
-Bread – hljeb
-Injection – injekcija
-Needle – igla
-Hedgehog – jez
-Apple – jabuka
-Bucket – kanta
-Spoon – kasika
-Lollypop – lizalo
-Swing – ljuljacka
-Scissors – makaze
-Honey – med
-Snout – njuska
-Knife – noz
-Pencil/pen – olovka
-Towel – peskir
-Fish – riba
-Toilet seat – solja
-Chair – stolica
-Table – stol
-Plate – tanjir
-Wheel – tocak
-Lighter – upaljac
-Fire – vatra
-Fork – viljuska
-Frog – zaba
-Curtain – zavjesa
-Bowl – zdjela
-Star – zvijezda
-Lightning - munja
+Car – auto - سيارة 
+Ship – brod -سفينة 
+Carpet – cilim - سجادة
+Boot – cizma - جزمة
+Flower – cvijet - زهرة
+Student (primary) – djak - طالب
+Tree – drvo - شجرة
+Mosque – dzamija - مسجد
+Nail – ekser - مسمار
+Bottle – flasa - قنينة
+Pidgeon – golub - حمامة
+Helicopter – helikopter - طائرة مروحية
+Bread – hljeb - خبز
+Injection – injekcija - حقنة
+Needle – igla - ابرة
+Hedgehog – jez - قنفذ
+Apple – jabuka - تفاحة
+Bucket – kanta - دلو
+Spoon – kasika - ملعقة
+Lollypop – lizalo - مصاصة
+Swing – ljuljacka - ارجوحة
+Scissors – makaze - مقص
+Honey – med - عسل
+Snout – njuska -خطم
+Knife – noz - سكين
+Pencil/pen – olovka - قلم
+Towel – peskir - منشفة
+Fish – riba - سمكة
+Toilet seat – solja - مرحاض
+Chair – stolica - كرسي
+Table – stol - طاولة
+Plate – tanjir - صحن
+Wheel – tocak - عجلة
+Lighter – upaljac - ولاعة
+Fire – vatra - نار
+Fork – viljuska - شوكة
+Frog – zaba - ضفدع
+Curtain – zavjesa - ستائر
+Bowl – zdjela - زبدية
+Star – zvijezda - نجمة
+Lightning - munja - صاعقة
+
+
+Cow- بقرة 
+Watermelon - بطيخ 
+Parrot - ببغاء
+Garlic - ثوم 
+Fox- ثعلب
+Bull - ثور
+Snow - ثلج
+Fly - ذبابة
+Wolf - ذئب
+Corn - ذرة
+Feather - ريشة
+Shrimps - روبيان
+Pomegranate - رمان 
+Envelop - ظرف
+Nail - ظفر
+Back - ظهر
+Crow - غراب
+Washing machine 
+Deer - غزال
+Cloud - غيمة
+Branch - غصن
+Strawberry - فراولة
+Butterfly - فراشة
+Dress - فستان
+Elephant - فيل 
+mushroom - فطر
+Lemon - ليمون
+Light bulb - لمبة
+Toungue - لسان
+Cressent - هلال
+Gift - هدية
+Phone - هاتف
+Pyramid - هرم
+Dragonfly - يعسوب
+Hand - يد
+Yoyo - يويو
+Pumkin - يقطين
+Larva - يرقة

@@ -56,27 +56,29 @@ Pomegranate - nar, sipak - رمان
 Envelop - koverta - ظرف
 Nail - nokat - ظفر
 Back - ledja - ظهر
-Crow - غراب
-
-Washing machine - غسالة
-Deer - غزال
-Cloud - غيمة
-Branch - غصن
-Strawberry - فراولة
-Butterfly - فراشة
-Dress - فستان
-Elephant - فيل 
-mushroom - فطر
-Lemon - ليمون
-Light bulb - لمبة
-Toungue - لسان
-Cressent - هلال
-Gift - هدية
-Phone - هاتف
-Pyramid - هرم
-Dragonfly - يعسوب
-Hand - يد
-Yoyo - يويو
-Pumkin - يقطين
-Larva - يرقة
-worm - دودة
+Crow - vrana - غراب
+Washing machine - ves masina - غسالة
+Deer - jelen - غزال
+Cloud - oblak - غيمة
+Branch - grana - غصن
+Strawberry - jagoda - فراولة
+Butterfly - leptir - فراشة
+Dress - haljina - فستان
+Elephant - slon - فيل 
+mushroom - gljiva - فطر
+Lemon - limun - ليمون
+Light bulb - sijalica - لمبة
+Toungue - jezik - لسان
+Crescent - polumjesec - هلال
+Gift - poklon - هدية
+Phone - telefon - هاتف
+Pyramid - piramida - هرم
+Dragonfly - vilin konjic - يعسوب
+Hand - ruka - يد
+Yoyo - jojo - يويو
+Pumkin - tikva - يقطين
+Larva - crv - يرقة
+worm - glista - دودة
+sun - sunce -
+moon - mjesec -
+rain - kisa -

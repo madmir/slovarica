@@ -79,6 +79,6 @@ Yoyo - jojo - يويو
 Pumkin - tikva - يقطين
 Larva - crv - يرقة
 worm - glista - دودة
-sun - sunce -
-moon - mjesec -
-rain - kisa -
+sun - sunce - شمس
+moon - mjesec - قمر
+rain - kisa - مطر

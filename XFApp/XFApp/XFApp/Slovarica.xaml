@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="XFApp.Slovarica"
+             Title="Slovarica">
+    <CarouselView x:Name="SlovaricaView" HorizontalOptions="Center" VerticalOptions="Center" >
+        <CarouselView.ItemTemplate>
+            <DataTemplate>
+                <ffimageloading:CachedImage DownsampleToViewSize="true" Source="{Binding Image}"
+                               Aspect="AspectFit" VerticalOptions="Center" HorizontalOptions="Center" />
+            </DataTemplate>
+        </CarouselView.ItemTemplate>
+    </CarouselView>
+</ContentPage>

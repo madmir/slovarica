@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XFApp.Counter"
+             Title="Counter">
+    <ContentPage.Content>
+        <FlexLayout Direction="Column"
+            AlignItems="Center"
+            JustifyContent="SpaceEvenly">
+            <Label x:Name="number" 
+               FontSize="100"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+            <Stepper x:Name="stepper" Maximum="1000000" Minimum="-1000000" HorizontalOptions="Center" ValueChanged="OnStepperValueChanged" />
+            <Button Text="Reset" HorizontalOptions="Center" Clicked="OnResetClicked" />
+        </FlexLayout>
+    </ContentPage.Content>
+</ContentPage>
